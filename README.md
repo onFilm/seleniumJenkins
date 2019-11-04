@@ -1,4 +1,4 @@
 # seleniumJenkins
-        | One Class </br>
-                |-------Four simple TestNG tests </br>
+        | One Class 
+                |-------Four simple TestNG tests 
  That's it ;-)
