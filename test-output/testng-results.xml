@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69985" started-at="2019-11-04T16:25:23Z" finished-at="2019-11-04T16:26:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69985" started-at="2019-11-04T16:25:23Z" finished-at="2019-11-04T16:26:33Z">
+      <class name="com.seleniumJenkins.seleniumJenkins.seleniumTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeSuite" is-config="true" duration-ms="79" started-at="2019-11-04T21:55:23Z" finished-at="2019-11-04T21:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-11-04T21:55:23Z" finished-at="2019-11-04T21:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-11-04T21:55:23Z" finished-at="2019-11-04T21:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeMethod" is-config="true" duration-ms="32351" started-at="2019-11-04T21:55:23Z" finished-at="2019-11-04T21:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testAmazon()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="testAmazon" duration-ms="756" started-at="2019-11-04T21:55:55Z" finished-at="2019-11-04T21:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazon -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterMethod" is-config="true" duration-ms="1334" started-at="2019-11-04T21:55:56Z" finished-at="2019-11-04T21:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeMethod" is-config="true" duration-ms="10556" started-at="2019-11-04T21:55:57Z" finished-at="2019-11-04T21:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testFacebook()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="testFacebook" duration-ms="224" started-at="2019-11-04T21:56:08Z" finished-at="2019-11-04T21:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterMethod" is-config="true" duration-ms="1126" started-at="2019-11-04T21:56:08Z" finished-at="2019-11-04T21:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeMethod" is-config="true" duration-ms="10423" started-at="2019-11-04T21:56:09Z" finished-at="2019-11-04T21:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testNetFlix()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="testNetFlix" duration-ms="443" started-at="2019-11-04T21:56:20Z" finished-at="2019-11-04T21:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNetFlix -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterMethod" is-config="true" duration-ms="1038" started-at="2019-11-04T21:56:20Z" finished-at="2019-11-04T21:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="beforeMethod" is-config="true" duration-ms="10153" started-at="2019-11-04T21:56:21Z" finished-at="2019-11-04T21:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testWalmart()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="testWalmart" duration-ms="429" started-at="2019-11-04T21:56:31Z" finished-at="2019-11-04T21:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWalmart -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterMethod" is-config="true" duration-ms="1130" started-at="2019-11-04T21:56:32Z" finished-at="2019-11-04T21:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-11-04T21:56:33Z" finished-at="2019-11-04T21:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-11-04T21:56:33Z" finished-at="2019-11-04T21:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.seleniumJenkins.seleniumJenkins.seleniumTest@1bc7afb]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-11-04T21:56:33Z" finished-at="2019-11-04T21:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.seleniumJenkins.seleniumJenkins.seleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
