@@ -24,16 +24,22 @@ public class seleniumTest {
 	public void testFacebook() {
 		driver.findElement(By.name("q")).sendKeys("Facebook");
 		System.out.println("Entering Facebook in google search box");
+		if(true){
+			
+		}
 	}
 	
 	@Test
 	public void testNetFlix() {
 		driver.findElement(By.name("q")).sendKeys("NetFlix");
 		System.out.println("Entering NetFlix in google search box");
+		if(true)
+			System.out.println("to get checkstyle warning");
 	}
 	
 	@Test
 	public void testAmazon() {
+		int a=10;
 		driver.findElement(By.name("q")).sendKeys("Amazon");
 		System.out.println("Entering Amazon in google search box");
 	}
